@@ -4,8 +4,8 @@ This list is intended as a quick hub for discovering tools, entertainment, and h
 
 ## Categories
 
-- [🎮 Games](docs/GAMES.md)
-- [🎬 Multimedia](docs/MULTIMEDIA.md)
+- [🎮 Games](docs/games.md)
+- [🎬 Multimedia](docs/multimedia.md)
 
 ## 🔑 License
 
