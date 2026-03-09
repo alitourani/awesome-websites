@@ -1,2 +1,6 @@
-# awesome-websites
-A list of interesting and practical websites
+# Awesome Websites
+
+| Description                      |
+| -------------------------------- |
+| [Games](docs/GAMES.md)           |
+| [Multimedia](docs/MULTIMEDIA.md) |
