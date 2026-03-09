@@ -1,4 +1,4 @@
-# Awesome Multimedia
+# 🎬 Awesome Multimedia Websites
 
 | Resource Name | Description              | Link                                    |
 | ------------- | ------------------------ | --------------------------------------- |

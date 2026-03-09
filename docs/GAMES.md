@@ -1,4 +1,4 @@
-# Awesome Games
+# 🎮 Awesome Game Websites
 
 | Resource Name | Description          | Link                                                |
 | ------------- | -------------------- | --------------------------------------------------- |
