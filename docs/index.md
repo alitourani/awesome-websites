@@ -5,7 +5,9 @@ This list is intended as a quick hub for discovering tools, entertainment, and h
 ## Categories
 
 - [🎮 Games](docs/games.md)
+- [🏗️ Industry](docs/industry.md)
 - [🎬 Multimedia](docs/multimedia.md)
+- [📱 Tech Resources](docs/tech.md)
 
 ## 🔑 License
 
